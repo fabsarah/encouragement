@@ -1,2 +1,2 @@
-# Encouragement
+# encouragement
 An adorable bot that lives in python and gives encouragement
